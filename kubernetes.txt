@@ -1,0 +1,37 @@
+ECHO is on.
+
+# Kubernetes : - (Also called as k8s)
+
+- Kubernetes is a container orchestration system. It provides an API for managing containers in the     cloud and beyond.
+
+- In simlpe words Kubernetes is an open-source platform used for maintaining and deploying a group of containers.
+
+▸ What is orchestration?
+→ It's just Manage your application 
+  • Deloy your application.     • Self Healing.
+  • Scale it Up or Down.        • Rolling updates and rollback.
+
+▸ Benefits of Kubernetes : - 
+
+ > Portable and 100% open source - 
+  Kubernetes is compatible across several platforms. It is 100% open source project and thus, provide greater flexibility to the users.
+
+ > Workload Scalability - 
+  Kubernetes is known to be very efficient. New servers are added and removed easily, it automatically changes the number of running containers, and it scales many containers manually. 
+
+ > High availability - 
+  Kubernetes is designed to tackle the availability of both containers and infrastructure. It is highly reliable and can be made available in any physical environment
+
+ > Service discovery and load balancing -
+  Kubernetes can expose a container using DNS or its IP address. If the traffic load is high, it balances load and distributes the network for deployment to be stable.
+
+ > Storage orchestration - 
+  Kubernetes automatically mounts storage systems like local storage and public cloud providers.
+
+ > Self healing - 
+  Kubernetes restarts container if failed, replaces containers, kill containers that don't respond to timely checks.
+
+ > Automatic bin packing - 
+  Kubernetes specifies how much CPU and RAM each container needs. Once resources are defined, managing the resources and making decision for them becomes easy.
+
+
